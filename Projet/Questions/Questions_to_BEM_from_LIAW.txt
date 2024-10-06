@@ -1,0 +1,4 @@
+# Questions
+
+- Can the proposed method effectively handle scenarios where the size of the lesion is substantial compared to the normal-appearing white matter volume? This includes situations with numerous small, scattered defects or a singular, sizable localized defect.
+- How robust is the algorithm when confronted with lesions that extend beyond the confines of the tissue boundary? Specifically, does it maintain accuracy and reliability in cases where the lesion intersects or crosses over tissue boundaries?
